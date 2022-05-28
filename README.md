@@ -1,3 +1,4 @@
 # cantera2
 
-Taller POO
+Taller POO en proceso
+ 
