@@ -74,15 +74,4 @@ public class Person {
         this.height = height;
     }
 
-    @Override
-    public String toString() {
-        return "Person{" +
-                "dni=" + dni +
-                ", name='" + name + '\'' +
-                ", lastname1='" + lastname1 + '\'' +
-                ", lastname2='" + lastname2 + '\'' +
-                ", dateBirthday=" + dateBirthday +
-                ", height=" + height +
-                '}';
-    }
 }

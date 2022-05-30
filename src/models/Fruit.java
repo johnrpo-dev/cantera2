@@ -41,12 +41,4 @@ public class Fruit {
         this.colors = colors;
     }
 
-    @Override
-    public String toString() {
-        return "Fruit{" +
-                "name='" + name + '\'' +
-                ", averageWeight=" + averageWeight +
-                ", colors=" + colors +
-                '}';
-    }
 }
